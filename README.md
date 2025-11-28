@@ -4,15 +4,13 @@
 
 SheetJS with Style! Create Excel spreadsheets with basic styling options using JavaScript.
 
-<p align="center">
-  <a href="https://github.com/gitbrent/xlsx-js-style/">
-    <img alt="xlsx-js-style sheetjs styles" title="xlsx-js-style sheetjs styles" src="https://github.com/gitbrent/xlsx-js-style/blob/7664a045cd8f96b6b1b92ad563babebb8d6e0b4a/demos/browser/images/readme_banner.png"/>
-  </a>
-</p>
-<br/>
+![xlsx-js-style sheetjs styles](https://github.com/gitbrent/xlsx-js-style/blob/7664a045cd8f96b6b1b92ad563babebb8d6e0b4a/demos/browser/images/readme_banner.png)
 
-[![Known Vulnerabilities](https://snyk.io/test/npm/xlsx-js-style/badge.svg)](https://snyk.io/test/npm/xlsx-js-style) [![npm downloads](https://img.shields.io/npm/dm/xlsx-js-style.svg)](https://www.npmjs.com/package/xlsx-js-style)
-[![typescripts definitions](https://img.shields.io/npm/types/xlsx-js-style)](https://img.shields.io/npm/types/xlsx-js-style)
+[![](https://data.jsdelivr.com/v1/package/npm/xlsx-js-style/badge)](https://www.jsdelivr.com/package/npm/xlsx-js-style)
+![NPM Downloads](https://img.shields.io/npm/dm/xlsx-js-style?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/gitbrent/xlsx-js-style?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/gitbrent/xlsx-js-style?style=flat-square)
+![TypeScript defs](https://img.shields.io/npm/types/xlsx-js-style?style=flat-square)
 
 ## 🔌 Installation
 
